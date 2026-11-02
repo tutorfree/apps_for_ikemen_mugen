@@ -54,30 +54,9 @@ Uma ferramenta visual e intuitiva para criar cenários (stages) completos para *
 
 ---
 
-## 🔧 Instalação
+## 🔧 Download
 
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/stage-builder-studio.git
-cd stage-builder-studio
-```
-
-### 2. Instale as dependências
-
-```bash
-pip install pillow
-```
-
-### 3. Execute o aplicativo
-
-```bash
-python stagetool.py
-```
-
-Alternativamente, você pode baixar apenas o arquivo `stagetool.py` e executá-lo diretamente — ele é auto-contido e não depende de outros arquivos do projeto.
-
----
+[[url](https://github.com/tutorfree/apps_for_ikemen_mugen/releases/)">](github.com/tutorfree/apps_for_ikemen_mugen)
 
 ## 🚀 Como Usar
 
