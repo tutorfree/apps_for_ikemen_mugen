@@ -56,7 +56,7 @@ Uma ferramenta visual e intuitiva para criar cenários (stages) completos para *
 
 ## 🔧 Download
 
-(https://github.com/tutorfree/apps_for_ikemen_mugen/releases/)">](github.com/tutorfree/apps_for_ikemen_mugen)
+<a href="https://github.com/tutorfree/apps_for_ikemen_mugen/releases/">github.com/tutorfree/apps_for_ikemen_mugen</a>
 
 ## 🚀 Como Usar
 
