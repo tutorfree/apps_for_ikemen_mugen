@@ -1,5 +1,5 @@
 # 🎨 IKEMEN & MUGEN Stage Builder Studio
-
+<img src="https://github.com/tutorfree/apps_for_ikemen_mugen/blob/main/IKEMEN%20&%20MUGEN%20Stage%20Builder%20Studio2.png">
 Uma ferramenta visual e intuitiva para criar cenários (stages) completos para **MUGEN 1.0**, **MUGEN 1.1** e **IKEMEN GO**, com compilação nativa de arquivos **SFF v1** — sem depender de softwares externos!
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
